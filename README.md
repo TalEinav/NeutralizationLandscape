@@ -9,3 +9,5 @@ In this work, we use multidimensional scaling to visualize the interactions betw
   * **(3) Decomposition Results.csv** Results from our decomposition analysis of individual antibodies and mixtures of 2-3 antibodies.
   * **(4) Virus HA Sequence Alignment.txt** Aligned  sequences from the 51 viruses studied in this work.
 * *Code*: A Mathematica notebook that contains the full analysis and reproduces all plots from this work.
+  * All methods and results in the notebook are extensively annotated, and all code should run within less than a minute.
+  * Analysis was performed using Mathematica version 13.0 for Windows, but should run on any platform and with any later version. There is no need for any installation beyond the standard Mathematica programming language.
