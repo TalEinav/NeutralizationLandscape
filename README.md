@@ -1,7 +1,7 @@
 # Neutralization Landscapes
 **Harnessing Low Dimensionality to Visualize the Antibody-Virus Landscape for Influenza**<br/>
 *Authors*: Tal Einav, Adrian Creanga, Sarah F. Andrews, Adrian B. McDermott, Masaru Kanekiyo<br/>
-https://doi.org/10.1101/2020.08.28.270561<br/>
+https://doi.org/10.1038/s43588-022-00375-1<br/>
 [![DOI](https://zenodo.org/badge/480516993.svg)](https://zenodo.org/badge/latestdoi/480516993)
 
 In this work, we use multidimensional scaling to visualize the interactions between influenza viruses and antibodies targeting the hemagglutinin stem. The repository is structured as follows:
