@@ -13,3 +13,6 @@ In this work, we use multidimensional scaling to visualize the interactions betw
 * *Code*: A Mathematica notebook that contains the full analysis and reproduces all plots from this work.
   * All methods and results in the notebook are extensively annotated, and all code should run within less than a minute.
   * Analysis was performed using Mathematica version 13.0 for Windows, but should run on any platform and with any later version. There is no need for any installation beyond the standard Mathematica programming language.
+
+> [!NOTE]
+> Mapping hemagglutinin head-targeting antibodies has thus far proved more challenging, and it may require higher dimensional maps or separate maps for different antigenic sites.
